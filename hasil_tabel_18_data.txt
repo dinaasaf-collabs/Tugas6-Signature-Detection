@@ -1,0 +1,30 @@
+TABEL HASIL DETEKSI TANDA TANGAN
+===============================================================================================
+1   PRESENT   signature_01_closing.jpg                    408982       91.93% SIGNATURE PRESENT   
+2   PRESENT   signature_02_closing.jpg                    408858       91.90% SIGNATURE PRESENT   
+3   PRESENT   signature_03_closing.jpg                    393594       88.47% SIGNATURE PRESENT   
+4   PRESENT   signature_04_closing.jpg                    409440       92.03% SIGNATURE PRESENT   
+5   PRESENT   signature_05_closing.jpg                    405629       91.17% SIGNATURE PRESENT   
+6   PRESENT   signature_06_closing.jpg                    408901       91.91% SIGNATURE PRESENT   
+7   PRESENT   signature_07_closing.jpg                    408971       91.92% SIGNATURE PRESENT   
+8   PRESENT   signature_08_closing.jpg                    408965       91.92% SIGNATURE PRESENT   
+9   PRESENT   signature_09_closing.jpg                    406909       91.46% SIGNATURE PRESENT   
+10  ABSENT    absent_01.jpg                                 7694        1.73% SIGNATURE ABSENT    
+11  ABSENT    absent_02.jpg                                 1278        0.29% SIGNATURE ABSENT    
+12  ABSENT    absent_03.jpg                                 1579        0.35% SIGNATURE ABSENT    
+13  ABSENT    absent_04.jpg                                 6690        1.50% SIGNATURE ABSENT    
+14  ABSENT    absent_05.jpg                                 5163        1.16% SIGNATURE ABSENT    
+15  ABSENT    absent_06.jpg                                 9055        2.04% SIGNATURE ABSENT    
+16  ABSENT    absent_07.jpg                                 7108        1.60% SIGNATURE ABSENT    
+17  ABSENT    absent_08.jpg                                 6691        1.50% SIGNATURE ABSENT    
+18  ABSENT    absent_09.jpg                                 7583        1.70% SIGNATURE ABSENT    
+
+RINGKASAN
+===============================================================================================
+Jumlah data PRESENT : 9
+Jumlah data ABSENT  : 9
+Total data          : 18
+Data benar          : 18
+Data salah          : 0
+Akurasi             : 100.00%
+Batas klasifikasi   : 206282.78
